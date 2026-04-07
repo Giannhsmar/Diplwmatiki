@@ -1,7 +1,7 @@
 # Title 
 Synthetic InSAR Data Generation using GANs
 
-# Description
+## Description
 This project explores the use of Generative Adversarial Networks (GANs) 
 for generating synthetic InSAR interferograms.
 
